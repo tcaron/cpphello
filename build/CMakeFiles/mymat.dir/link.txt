@@ -1,0 +1,1 @@
+/nix/store/5l6b97jscljkvsq9y9amg71v5jfzddm4-gcc-wrapper-6.4.0/bin/g++    -rdynamic CMakeFiles/mymat.dir/mymat.cpp.o  -o mymat 
